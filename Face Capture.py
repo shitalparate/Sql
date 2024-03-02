@@ -1,4 +1,5 @@
-# # FAce capture
+
+######This is sample code for face Capture########
 #
 #
 # import time
@@ -76,3 +77,5 @@ finally:
     # Release the VideoCapture object and close all windows
     cap.release()
     cv2.destroyAllWindows()
+
+
